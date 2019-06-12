@@ -1,0 +1,12 @@
+/*** Manual Node execution on CLI ***/
+{
+  "name": "js-programs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
